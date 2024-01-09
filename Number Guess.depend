@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700232969 source:i:\practiceee\number guess\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
